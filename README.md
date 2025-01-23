@@ -135,7 +135,7 @@
                 <!-- Example Service Cards (Add more as needed) -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./download.png" class="card-img-top picture1" alt="Haircut">
+                        <img src="js/imagelogobald.png" class="card-img-top picture1" alt="Haircut">
                         <div class="card-body">
                             <h5 class="card-title">Haircuts</h5>
                             <p class="card-text">Enjoy the best personal grooming in the comfort of your own home with
@@ -147,7 +147,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./download (1).png" class="card-img-top picture1" alt="Shave">
+                        <img src="js/infologocleanshave.png" class="card-img-top picture1" alt="Shave">
                         <div class="card-body">
                             <h5 class="card-title">Shaves</h5>
                             <p class="card-text">Experience clean shaves with precision and expert techniques from our
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./images.png" class="card-img-top picture1" alt="Beard Trim">
+                        <img src="js/infologobeard.png" class="card-img-top picture1" alt="Beard Trim">
                         <div class="card-body">
                             <h5 class="card-title">Beard Trims</h5>
                             <p class="card-text">Achieve the perfect beard shape with our skilled barbers. Enjoy expert
@@ -178,7 +178,7 @@
                 <!-- Wet Shaving -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./b27874b9bf3605a965373ea6177ac9f1.jpg" class="card-img-top" alt="Wet Shaving">
+                        <img src="js/cleanbeardshapeup.jpg" class="card-img-top" alt="Wet Shaving">
                         <div class="card-body">
                             <h5 class="card-title">Wet Shaving</h5>
                             <p class="card-text">&pound;19.99</p>
@@ -189,7 +189,7 @@
                 <!-- Beard Trim -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./8f229751dd2b17e026dc838fb50d73ec.jpg" class="card-img-top" alt="Beard Trim">
+                        <img src="js/beardlineup.jpg" class="card-img-top" alt="Beard Trim">
                         <div class="card-body">
                             <h5 class="card-title">Beard Trim</h5>
                             <p class="card-text">&pound;29.99</p>
@@ -200,7 +200,7 @@
                 <!-- Haircut -->
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./567456187d1e9ab85b2157bd6f2c8cd8.jpg" class="card-img-top" alt="Haircut">
+                        <img src="js/darkskinshirtcurlyhair.jpg" class="card-img-top" alt="Haircut">
                         <div class="card-body">
                             <h5 class="card-title">Haircut</h5>
                             <p class="card-text">&pound;49.99</p>
@@ -216,22 +216,22 @@
                     <div class="row g-4"> <!-- Add spacing between grid items -->
                         <div class="col-6 col-md-3">
                             <div class="gallery-item">
-                                <img src="./73dad7d408cf03fb3d5fbbf2734c4227 (1).jpg" class="img-fluid" alt="Gallery">
+                                <img src="js/afro.jpg" class="img-fluid" alt="Gallery">
                             </div>
                         </div>
                         <div class="col-6 col-md-3">
                             <div class="gallery-item">
-                                <img src="./6fc83d1d89ce7f0e6c3df83190f6302a.jpg" class="img-fluid" alt="Gallery">
+                                <img src="js/ufcfighter.jpg" class="img-fluid" alt="Gallery">
                             </div>
                         </div>
                         <div class="col-6 col-md-3">
                             <div class="gallery-item">
-                                <img src="./c90b3f3505929a973ea66e97caadfca4.jpg" class="img-fluid" alt="Gallery">
+                                <img src="js/handlineup.jpg" class="img-fluid" alt="Gallery">
                             </div>
                         </div>
                         <div class="col-6 col-md-3">
                             <div class="gallery-item">
-                                <img src="./b2c45d43141cd655f22b2df9b9d737dc.jpg" class="img-fluid" alt="Gallery">
+                                <img src="js/bothlineups.jpg" class="img-fluid" alt="Gallery">
                             </div>
                         </div>
                     </div>
